@@ -1,3 +1,5 @@
+/* General page style throughout website start */
+
 h1 {
   color: white;
   background-color: firebrick;
@@ -20,7 +22,7 @@ h2 {
   font-family: cursive;
 }
 
-ul {
+.homepage {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -29,4 +31,9 @@ ul {
 button {
   font-size: 14px;
   font-family: Helvetica, sans-serif, "Times New Roman";
+}
+
+.desc {
+  font-family: cursive;
+  text-align: center;
 }
