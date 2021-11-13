@@ -37,3 +37,8 @@ button {
   font-family: cursive;
   text-align: center;
 }
+
+.home-button {
+  position: relative;
+  left: 50%;
+}
